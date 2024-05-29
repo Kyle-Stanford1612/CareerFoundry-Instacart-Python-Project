@@ -8,7 +8,7 @@ As a business analyst, my job is to perform an exploratory analysis of some of I
 
 # Data:
 "The Instacart Online Grocery Shopping Dataset 2017", accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on <24/04/2024>.
-by the end of the project, 4 original data sets had been cleaned and merged to form a comprehensive data set containing over 30 million rows and 37 rows
+By the end of the project, 4 original data sets had been cleaned and merged to form a comprehensive data set containing over 30 million rows and 37 rows
 
 # Skills learned:
 Data wrangling and subsetting

@@ -11,7 +11,7 @@ As a business analyst, my job was to perform an exploratory analysis of some of 
 
 By the end of the project, 4 original data sets had been cleaned and merged to form a comprehensive data set containing over 30 million rows and 37 rows
 
-# Skills learned:
+# Skills Learned:
 Data wrangling and subsetting
 
 Data consistency checks

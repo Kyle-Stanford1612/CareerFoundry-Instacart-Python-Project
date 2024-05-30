@@ -40,19 +40,19 @@ Numpy | Pandas | Matplotlib | Seaborn | Scipy
 ## Folders
 Project files are stored using the following folder structure:
 
-● 01 Project Management: Contains project brief.
+● *01 Project Management*: Contains project brief.
 
-● 02 Data: Separated into subfolders. 
+● *02 Data*: Data files have not been uploaded to GitHub due to the folder size. The following subfolders were used:
 
   → Original Data contains the original data frames. 
   
   → Prepared Data contains data frames that have been edited using Python (cleaning, merging, etc.)
 
-● 03 Scripts: Contains Jupyter notebooks with all relevant code used throughout the project.
+● *03 Scripts*: Contains Jupyter notebooks with all relevant code used throughout the project.
 
-● 04 Analysis: Contains all visualisations made throughout the project which led to insights.
+● *04 Analysis*: Contains all visualisations made throughout the project which led to insights.
 
-● 05 Sent to Client: Contains the final Excel report.
+● *05 Sent to Client*: Contains the final Excel report.
 
 ### Note:
 Instacart is a real company that’s made their data available online. However, the contents of the attached project brief

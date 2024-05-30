@@ -28,6 +28,20 @@ Stakeholders would like data-driven answers to the following questions to ensure
 ● What differences can you find in the ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 
 ## Data and Tools Used
-"The Instacart Online Grocery Shopping Dataset 2017", accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on <24/04/2024>.
+5 datasets were used throughout the project:
 
-By the end of the project, 4 original data sets had been cleaned and merged to form a comprehensive data set containing over 30 million rows and 37 rows
+● Orders
+● Orders_products_prior
+● Products
+● Customers
+● Departments
+
+These datasets were analysed using Python in Jupyter Notebook. The following libraries were used:
+
+● Numpy
+● Pandas
+● Matplotlib
+● Seaborn
+● Scipy
+
+## Folders

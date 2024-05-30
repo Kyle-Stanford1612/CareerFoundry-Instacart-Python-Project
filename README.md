@@ -1,5 +1,5 @@
 # Python - Instacart Analysis Project
-This repository contains my Python code for a student project I completed while studying at CareerFoundry. 
+This repository contains my Python code for a student project I completed while studying at CareerFoundry. This project culminated in the creation of an Excel report, documenting processes of data cleaning, data wrangling, and column derivations. The report also contains a Population Flow, visualisations from the data, and recommendations based on the business questions posed in the project brief.
 
 ## Project Context:
 Instacart is an online grocery store that operates through an app. The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. They assume they can't target everyone using the same methods, and they’re considering a targeted marketing strategy. They want to target different customers with applicable marketing campaigns to see whether they affect the sale of their products.

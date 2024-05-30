@@ -50,7 +50,9 @@ Project files are stored using the following folder structure:
 ● 01 Project Management: Contains project brief.
 
 ● 02 Data: Separated into subfolders. 
+
   → Original Data contains the original data frames. 
+  
   → Prepared Data contains data frames that have been edited using Python (cleaning, merging, etc.)
 
 ● 03 Scripts: Contains Jupyter notebooks with all relevant code used throughout the project.
